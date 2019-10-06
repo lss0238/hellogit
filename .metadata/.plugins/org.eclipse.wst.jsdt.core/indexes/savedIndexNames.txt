@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\cpfla\Desktop\kcr\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1847763821.index
+1183937750.index
+1312902942.index
+407198805.index
+878163431.index
+1083264085.index
